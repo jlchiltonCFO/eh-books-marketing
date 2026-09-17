@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101327"/><stop offset="1" stop-color="#303574"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#a7ffcb" stop-opacity=".38"/><stop offset="1" stop-color="#a7ffcb" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1080" cy="30" r="360" fill="url(#glow)"/>
+  <circle cx="780" cy="650" r="390" fill="#5558ff" opacity=".19"/>
+  <g transform="translate(64 55)">
+    <rect x="0" y="0" width="19" height="19" rx="6" fill="#7779ff"/><rect x="23" y="0" width="36" height="19" rx="6" fill="#9fa1ff"/>
+    <rect x="0" y="23" width="19" height="36" rx="6" fill="#9fa1ff"/><rect x="23" y="23" width="36" height="36" rx="7" fill="#5558ff"/>
+    <text x="76" y="46" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">EnrollHere</text>
+  </g>
+  <g transform="translate(875 60)">
+    <rect width="261" height="48" rx="24" fill="none" stroke="#a7ffcb" stroke-opacity=".8"/>
+    <text x="130.5" y="31" text-anchor="middle" fill="#a7ffcb" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1">VIP PILOT • INVITE ONLY</text>
+  </g>
+  <text x="64" y="213" fill="#a7ffcb" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2">INTRODUCING EH BOOKS</text>
+  <text x="64" y="300" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="69" font-weight="700" letter-spacing="-3">Technology for the workflow.</text>
+  <text x="64" y="378" fill="#a7ffcb" font-family="Arial, Helvetica, sans-serif" font-size="69" font-weight="700" letter-spacing="-3">People for the judgment.</text>
+  <text x="64" y="441" fill="#d5d8e7" font-family="Arial, Helvetica, sans-serif" font-size="25">Human-in-the-loop financial operations built for insurance distribution.</text>
+  <text x="64" y="572" fill="#b7bdd0" font-family="Arial, Helvetica, sans-serif" font-size="18">Request your VIP pilot invitation at enrollhere.vip</text>
+  <g transform="translate(1020 470)" opacity=".95">
+    <rect width="46" height="46" rx="15" fill="#ffffff"/><rect x="55" width="85" height="46" rx="15" fill="#b8bbff"/>
+    <rect y="55" width="46" height="85" rx="15" fill="#b8bbff"/><rect x="55" y="55" width="85" height="85" rx="17" fill="#ffffff"/>
+  </g>
+</svg>
