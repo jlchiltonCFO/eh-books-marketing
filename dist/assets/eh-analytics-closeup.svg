@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="42" y="76" font-size="46" font-weight="700" fill="#12131a">Analytics</text>
+    <rect x="254" y="40" width="146" height="46" rx="23" fill="#ffffff" stroke="#e2e3e8" stroke-width="2"/>
+    <text x="327" y="70" text-anchor="middle" font-size="20" fill="#353640">Demo agency</text>
+    <text x="42" y="116" font-size="21" fill="#777980">Core finance KPIs for Current cycle.</text>
+    <rect x="1010" y="34" width="184" height="54" rx="27" fill="#5657ff"/>
+    <text x="1102" y="68" text-anchor="middle" font-size="21" font-weight="700" fill="#ffffff">Current cycle</text>
+    <text x="1234" y="68" font-size="21" fill="#24252c">Last cycle</text>
+    <text x="1366" y="68" font-size="21" fill="#24252c">Custom</text>
+    <text x="1480" y="68" font-size="19" fill="#777980">Refresh</text>
+    <path d="M42 180V145Q42 130 57 130H190Q205 130 205 145V180" fill="#ffffff" stroke="#e3e4e8" stroke-width="2"/>
+    <text x="124" y="165" text-anchor="middle" font-size="21" fill="#24252c">Overview</text>
+    <text x="236" y="165" font-size="21" fill="#8a8b91">QuickBooks</text>
+
+    <g fill="#f1f2f7">
+      <rect x="42" y="180" width="480" height="190" rx="18"/>
+      <rect x="560" y="180" width="480" height="190" rx="18"/>
+      <rect x="1078" y="180" width="480" height="190" rx="18"/>
+      <rect x="42" y="397" width="480" height="190" rx="18"/>
+      <rect x="560" y="397" width="480" height="190" rx="18"/>
+      <rect x="1078" y="397" width="480" height="190" rx="18"/>
+      <rect x="42" y="614" width="480" height="190" rx="18"/>
+      <rect x="560" y="614" width="480" height="190" rx="18"/>
+      <rect x="1078" y="614" width="480" height="190" rx="18"/>
+    </g>
+
+    <g font-size="21" fill="#70727a">
+      <text x="70" y="224">Outstanding A/R</text><text x="492" y="224" text-anchor="end" fill="#9a9ca4">View →</text>
+      <text x="588" y="224">Overdue</text><text x="1010" y="224" text-anchor="end" fill="#9a9ca4">View →</text>
+      <text x="1106" y="224">Payment failures this cycle</text><text x="1528" y="224" text-anchor="end" fill="#9a9ca4">View →</text>
+      <text x="70" y="441">Failed QBO syncs</text><text x="492" y="441" text-anchor="end" fill="#9a9ca4">View →</text>
+      <text x="588" y="441">Paid in QBO, open in EH</text>
+      <text x="1106" y="441">Total invoices</text><text x="1528" y="441" text-anchor="end" fill="#9a9ca4">View →</text>
+      <text x="70" y="658">Paid share of this period’s billings</text>
+      <text x="588" y="658">Cash collected this period</text>
+      <text x="1106" y="658">Average days to pay</text>
+    </g>
+
+    <g font-size="42" font-weight="700">
+      <text x="70" y="286" fill="#5657ff">$284,730.52</text>
+      <text x="588" y="286" fill="#ff617c">$41,892.16</text>
+      <text x="1106" y="286" fill="#ffbd42">$3,260.00</text>
+      <text x="70" y="503" fill="#ff617c">3</text>
+      <text x="588" y="503" fill="#ffbd42">2</text>
+      <text x="1106" y="503" fill="#12131a">126</text>
+      <text x="70" y="720" fill="#5657ff">78.4%</text>
+      <text x="588" y="720" fill="#0e9b67">$196,420.18</text>
+      <text x="1106" y="720" fill="#12131a">12.6 days</text>
+    </g>
+
+    <g font-size="19" fill="#777980">
+      <text x="70" y="330">37 open invoices</text>
+      <text x="588" y="330">9 invoices · 14.7% of A/R</text>
+      <text x="1106" y="330">2 invoices require attention</text>
+      <text x="70" y="547">transactions not yet in QuickBooks</text>
+      <text x="588" y="547">payments awaiting synchronization</text>
+      <text x="1106" y="547">96 paid · 4 void · 26 sent</text>
+      <text x="70" y="764">$251,326 billed this period</text>
+      <text x="588" y="764">Across connected payment activity</text>
+      <text x="1106" y="764">Down 1.8 days from last cycle</text>
+    </g>
+  </g>
+</svg>
