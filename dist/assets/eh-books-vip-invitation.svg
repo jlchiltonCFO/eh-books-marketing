@@ -31,12 +31,12 @@
   <path d="M55 48 H1145" stroke="#f0d58c" stroke-width=".45" opacity=".35"/>
 
   <!-- Restrained EnrollHere lockup -->
-  <g transform="translate(497 80)">
-    <rect width="13" height="13" rx="4" fill="#c9922c"/>
-    <rect x="17" width="26" height="13" rx="4" fill="#efd58d"/>
-    <rect y="17" width="13" height="26" rx="4" fill="#efd58d"/>
-    <rect x="17" y="17" width="26" height="26" rx="5" fill="#b77e20"/>
-    <text x="57" y="33" fill="#eee9df" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">EnrollHere</text>
+  <g transform="translate(406 66)">
+    <rect width="20" height="20" rx="6" fill="#c9922c"/>
+    <rect x="26" width="40" height="20" rx="6" fill="#efd58d"/>
+    <rect y="26" width="20" height="40" rx="6" fill="#efd58d"/>
+    <rect x="26" y="26" width="40" height="40" rx="8" fill="#b77e20"/>
+    <text x="88" y="50" fill="#eee9df" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">EnrollHere</text>
   </g>
 
   <!-- The entire message -->
